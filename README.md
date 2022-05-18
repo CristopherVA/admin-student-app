@@ -1,4 +1,4 @@
-# API estudiante
+# ADMIN ESTUDIANTES
 
 _Aplicacion del lado del backend para llevar las gestiones de estudiante_
 
