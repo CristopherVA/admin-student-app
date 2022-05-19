@@ -1,4 +1,3 @@
-
 const URL = "http://localhost:8000";
 
 const studentFetch = (endpoint, data, method = 'GET') => {
